@@ -1,6 +1,8 @@
 # Automation
 
-#### [VBA Code](https://github.com/dalealberto/Excel/blob/main/SetDate%20VBA%20Code.txt).
+#### Purpose: To automate creating a daily task template instead of manually typing dates for the month
+
+#### [Raw VBA Code](https://github.com/dalealberto/Excel/blob/main/SetDate%20VBA%20Code.txt) (as a .txt file)
 
 #### Instructions:
 
