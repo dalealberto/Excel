@@ -7,7 +7,9 @@ To automate the tedious work of creating a daily task template every month
 
 ### Instructions:
 Step 1) [Select 'Enable Editing' to trust the contents of the embedded VBA code.](https://github.com/dalealberto/Excel/blob/main/EnableEditing.png)
+
 Step 2) [Type the date of the first Monday of the month](https://github.com/dalealberto/Excel/blob/main/ClickAutomateButton.png)
+
 Step 3) [Automation complete (4 weeks worth)](https://github.com/dalealberto/Excel/blob/main/AutomationComplete.png)<br>
 
 <br>
