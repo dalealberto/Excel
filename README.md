@@ -4,6 +4,7 @@
 To automate the tedious work of creating a daily task template every month
 
 <br>
+
 ### Instructions:
 
 <br>
@@ -15,6 +16,7 @@ Step 3) [Automation complete (4 weeks worth)](https://github.com/dalealberto/Exc
 <br>
 
 ### Files:
+<br>
 
 View the VBA code as a [.txt file](https://github.com/dalealberto/Excel/blob/main/SetDate%20VBA%20Code.txt)
 
