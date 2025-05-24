@@ -3,13 +3,13 @@
 <br>
 
 ### Purpose: 
-To automate creating a daily task template instead of manually typing dates for the month
+To automate the tedious work of creating a daily task template every month
 
 <br>
 
 ### Files:
-#### [View](https://github.com/dalealberto/Excel/blob/main/SetDate%20VBA%20Code.txt) the VBA Code as a .txt file
-#### [Download link ](https://github.com/dalealberto/Excel/blob/main/Daily%20Task%20Template%20For%20Work.xlsm) to the macro-enabled workbook (please click "View raw")
+[View](https://github.com/dalealberto/Excel/blob/main/SetDate%20VBA%20Code.txt) the VBA Code as a .txt file
+[Download link ](https://github.com/dalealberto/Excel/blob/main/Daily%20Task%20Template%20For%20Work.xlsm) to the macro-enabled workbook (please click "View raw")
 Note: This file contains my embedded code to automate the creation of the Daily Task Template. In order to run the code, you must click 'Enable Editing'.
 
 <br>
