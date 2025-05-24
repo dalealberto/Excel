@@ -20,7 +20,7 @@ Sub SetDate()
         formattedDate = "Week of " & Format(startDate + (7 * i), "mmmm d")
         newSheet.Name = formattedDate
         
-        ' Populate dates at desired cells (C1, C15, etc.)
+        ' Populate dates at specific locations (C1, C15, etc.)
         newSheet.Range("C1").Value = Format(startDate + (7 * i), "mmmm d, yyyy (dddd)")
         newSheet.Range("C14").Value = Format(startDate + (7 * i) + 1, "mmmm d, yyyy (dddd)")
         newSheet.Range("C27").Value = Format(startDate + (7 * i) + 2, "mmmm d, yyyy (dddd)")
