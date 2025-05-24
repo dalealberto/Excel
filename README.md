@@ -2,12 +2,7 @@
 
 <br><br>
 
-## Purpose: 
-
-<br>
-
-#### To automate creating a daily task template instead of manually typing dates for the month
-
+## Purpose: #### To automate creating a daily task template instead of manually typing dates for the month
 <br>
 
 ## Files:
