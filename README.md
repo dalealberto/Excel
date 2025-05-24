@@ -20,7 +20,7 @@ Note: This file contains my embedded code to automate the creation of the Daily 
 <br>
 
 1) [Select 'Enable Editing' to trust the contents of the embedded VBA code.](https://github.com/dalealberto/Excel/blob/main/EnableEditing.png)
-2) [Type the date of the first Monday of the month](https://github.com/dalealberto/Excel/blob/main/InitiatingTheAutomation.png)
+2) [Type the date of the first Monday of the month](https://github.com/dalealberto/Excel/blob/main/ClickAutomateButton.png)
 3) [Automation complete (4 weeks worth)](https://github.com/dalealberto/Excel/blob/main/AutomationComplete.png)
 
 
