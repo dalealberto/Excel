@@ -19,9 +19,9 @@ Note: This file contains my embedded code to automate the creation of the Daily 
 
 <br>
 
-1) [Image showing Excel file that prompts the user to 'Enable Editing' if they trust the contents of the embedded code.](https://github.com/dalealberto/Excel/blob/main/EnableEditing.png)
-2) [Image showing pop-up after clicking the blue automation button. This pop=up allows the user to type any date thay want the daily task to start from.](https://github.com/dalealberto/Excel/blob/main/InitiatingTheAutomation.png)
-3) [Image showing the result of the automation with four worksheets successfully populated.](https://github.com/dalealberto/Excel/blob/main/AutomationComplete.png)
+1) [Select 'Enable Editing' to trust the contents of the embedded VBA code.](https://github.com/dalealberto/Excel/blob/main/EnableEditing.png)
+2) [Type the date of the first Monday of the month](https://github.com/dalealberto/Excel/blob/main/InitiatingTheAutomation.png)
+3) [Automation complete (4 weeks worth)](https://github.com/dalealberto/Excel/blob/main/AutomationComplete.png)
 
 
 
