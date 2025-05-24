@@ -1,6 +1,5 @@
 ## *Automate with Excel*
 
-<br>
 
 ### Purpose: 
 To automate the tedious work of creating a daily task template every month
