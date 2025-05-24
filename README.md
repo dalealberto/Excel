@@ -13,6 +13,7 @@ Step 2) [Type the date of the first Monday of the month](https://github.com/dale
 Step 3) [Automation complete (4 weeks worth)](https://github.com/dalealberto/Excel/blob/main/AutomationComplete.png)<br>
 
 <br>
+
 ### Files:
 View the VBA code as a [.txt file](https://github.com/dalealberto/Excel/blob/main/SetDate%20VBA%20Code.txt)
 
