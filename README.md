@@ -8,7 +8,7 @@ To automate the tedious work of creating a daily task template every month
 ### Instructions:
 Step 1) [Select 'Enable Editing' to trust the contents of the embedded VBA code.](https://github.com/dalealberto/Excel/blob/main/EnableEditing.png)
 <br>
-<img src = "https://github.com/dalealberto/Excel/blob/main/EnableEditing.pngraw=true" width ="500">
+<img src = "https://github.com/dalealberto/Excel/blob/main/EnableEditing.png?raw=true" width ="500">
 <br>
 
 Step 2) [Type the date of the first Monday of the month](https://github.com/dalealberto/Excel/blob/main/ClickAutomateButton.png)
